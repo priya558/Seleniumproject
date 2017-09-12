@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76166" started-at="2017-09-05T14:13:14Z" finished-at="2017-09-05T14:14:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76166" started-at="2017-09-05T14:13:14Z" finished-at="2017-09-05T14:14:30Z">
+      <class name="SeleniumProject.Salesforce">
+        <test-method status="PASS" signature="Registartion()[pri:0, instance:SeleniumProject.Salesforce@55f3ddb1]" name="Registartion" duration-ms="76110" started-at="2017-09-05T19:43:14Z" finished-at="2017-09-05T19:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registartion -->
+      </class> <!-- SeleniumProject.Salesforce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
